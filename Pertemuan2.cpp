@@ -9,7 +9,7 @@ int main() {
     cout << "Nama Saya Adalah " << nama << endl;
     cout << "NPM Saya Adalah " << NPM << endl << endl;
 
-    cout << "UNILA Indah" << endl;
-    cout << "Be Strong" << endl;
+    cout << "UNILA Indah AF" << endl;
+    cout << "Be Strong sir" << endl;
     return 0;
 }
